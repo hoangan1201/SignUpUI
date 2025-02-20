@@ -4,6 +4,7 @@ body {
     align-items: center;
     justify-content: center;
     font-family: Arial, Helvetica, sans-serif;
+    padding: 8px;
 }
 
 form {
@@ -39,7 +40,7 @@ input{
 .checkbox-container input {
     width: 40px;
     height: 40px;
-    margin-top: 5px;
+    margin: 5px;
 }
 .checkbox-container label{
     min-width: 80px;
